@@ -7,7 +7,7 @@ subtitle: B.S. student in Computer Science at Fudan University
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Fudan University</p>
