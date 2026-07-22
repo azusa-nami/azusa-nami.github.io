@@ -7,13 +7,12 @@ subtitle: B.S. student in Computer Science at Fudan University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Fudan University</p>
     <p>Shanghai, China</p>
     <p><a href="mailto:23307130067@m.fudan.edu.cn">23307130067@m.fudan.edu.cn</a></p>
-    <p>+86 131 6757 2938</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

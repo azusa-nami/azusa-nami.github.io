@@ -2,7 +2,7 @@ cv:
   name: Yuqi Zeng
   label: Undergraduate Student in Computer Science
   email: 23307130067@m.fudan.edu.cn
-  phone: "+86 131 6757 2938"
+  # phone: "+86 131 6757 2938"
   location: Shanghai, China
   image: ""
   summary: Computer Science undergraduate at Fudan University working on large language models, agentic RAG, and alignment.
