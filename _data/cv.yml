@@ -19,7 +19,7 @@ cv:
         studyType: B.S.
         start_date: 2023-09
         end_date: 2027-06
-        score: "GPA: 3.77/4.00, Top 25%; Major GPA: 3.92/4.00, Top 5%"
+        score: "GPA: 3.80/4.00, Top 20%"
         highlights: []
 
     Selected Papers:
@@ -31,6 +31,23 @@ cv:
           - Zisu Huang*
           - Jiakang Yuan*
           - Bowen Chen*
+          - Jingwen Xu*
+          - Mingbo Zhou
+          - Wenhao Liu
+          - Muling Wu
+          - Zhengkang Guo
+          - Qi Qian
+          - Yifei Wang
+          - Feiran Zhang
+          - Ruicheng Yin
+          - Shihan Dou
+          - Changze Lv
+          - Tao Chen
+          - Kaitao Song
+          - Xu Tan
+          - Tao Gui
+          - Xiaoqing Zheng
+          - Xuanjing Huang
         publisher: Under Review
         releaseDate: 2026
         url: https://arxiv.org/pdf/2604.13602

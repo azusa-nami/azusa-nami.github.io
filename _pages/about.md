@@ -1,7 +1,8 @@
 ---
 layout: about
-title: about
+title: Yuqi Zeng
 permalink: /
+sitemap: true
 subtitle: B.S. student in Computer Science at Fudan University
 
 profile:
@@ -28,6 +29,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an undergraduate student in Computer Science at Fudan University, expected to receive my B.S. in June 2027. My current GPA is 3.77/4.00, and my major GPA is 3.92/4.00.
+I am an undergraduate student in Computer Science at Fudan University, expected to receive my B.S. in June 2027. My current GPA is 3.80/4.00.
 
 My research interests center on large language models, agentic retrieval-augmented generation, and alignment. I am currently a Research Intern at FudanNLP Group, supervised by Prof. Xiaoqing Zheng.
