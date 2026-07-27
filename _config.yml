@@ -2,14 +2,14 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuqi Zeng | AI Researcher at Fudan University
+title: Yuqi Zeng | Ungraduate student at Fudan University
 first_name: Yuqi
 middle_name: ""
 last_name: Zeng
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Yuqi Zeng is a Computer Science undergraduate and AI researcher at Fudan University, focusing on large language models, agentic RAG, and AI alignment.
+  Yuqi Zeng is a Computer Science undergraduate at Fudan University, focusing on large language models, agentic RAG, and AI alignment.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
