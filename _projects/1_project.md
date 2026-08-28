@@ -3,6 +3,8 @@ layout: page
 title: Real-time 3D Vision Motion Capture
 description: A real-time motion-capture system developed during my internship.
 img: assets/img/12.jpg
+# Add a GIF path here to show the animation on the homepage instead of the cover image.
+gif: assets/img/mocap_demo.gif
 importance: 1
 category: work
 selected: true
