@@ -10,7 +10,9 @@ selected: true
 
 ## Overview
 
-During my internship, I worked on a real-time 3D vision motion-capture system. The project reconstructs human motion from multi-view camera observations and streams the result for downstream visualization and applications.
+This project was developed during my internship at Noitom in Beijing in July 2026. The system recognizes 2D human keypoints from multiple cameras, reconstructs 3D human pose through triangulation and inverse kinematics (IK), and retargets the resulting motion to different digital avatars. It also supports high-precision hand tracking.
+
+The pipeline was extensively optimized for real-time performance. On a machine equipped with an NVIDIA RTX 4090, it can stably process 8 camera streams, 3 people, and 3 pairs of hands at 30 FPS.
 
 ## Highlights
 

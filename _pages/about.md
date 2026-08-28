@@ -34,9 +34,7 @@ My research interests center on large language models, agentic retrieval-augment
 
 <h2>Selected Projects</h2>
 
-<div class="row row-cols-1 row-cols-md-3">
-  {% assign selected_projects = site.projects | where: "selected", true | sort: "importance" %}
-  {% for project in selected_projects %}
-    {% include projects.liquid %}
-  {% endfor %}
-</div>
+<p>
+  <strong>Real-time 3D Vision Motion Capture</strong>
+  — Developed at Noitom during my July 2026 internship, supporting 8 cameras, 3 people, and 3 pairs of hands at a stable 30 FPS on an RTX 4090.
+</p>
