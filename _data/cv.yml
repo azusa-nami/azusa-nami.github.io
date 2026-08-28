@@ -61,7 +61,7 @@ cv:
           - Ruiquan Jiang
           - Xiaoqing Zheng
           - Xuanjing Huang
-        publisher: EMNLP 2026 under review
+        publisher: Under Review
         releaseDate: 2026
         url: https://arxiv.org/abs/2605.27123
         summary: We rethink agentic RAG through LLM-native search interfaces, showing that controllable symbolic retrieval over inverted indexes can outperform increasingly expressive dense retrievers in multi-hop reasoning settings.
