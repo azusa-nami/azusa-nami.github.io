@@ -31,3 +31,12 @@ latest_posts:
 I am an undergraduate student in Computer Science at Fudan University, expected to receive my B.S. in June 2027. My current GPA is 3.80/4.00.
 
 My research interests center on large language models, agentic retrieval-augmented generation, and alignment. I am currently a Research Intern at FudanNLP Group, supervised by Prof. Xiaoqing Zheng.
+
+<h2>Selected Projects</h2>
+
+<div class="row row-cols-1 row-cols-md-3">
+  {% assign selected_projects = site.projects | where: "selected", true | sort: "importance" %}
+  {% for project in selected_projects %}
+    {% include projects.liquid %}
+  {% endfor %}
+</div>

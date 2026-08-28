@@ -5,6 +5,7 @@ description: A real-time motion-capture system developed during my internship.
 img: assets/img/12.jpg
 importance: 1
 category: work
+selected: true
 ---
 
 ## Overview
